@@ -2,7 +2,7 @@ from MoodleClient import MoodleClient
 
 BOT_TOKEN = '5280973535:AAGO1udz6eeTfQcTktDCGtRyYvVqLx4J638'
 MAX_ZIP_SIZE = 98
-ACCES_USERS = ['naruto0109']
+ACCES_USERS = ['naruto0109, nautaii']
 CHAT_ID = '-1001666279733'
 URLMOODLE = 'https://moodle.uclv.edu.cu'
 CREDENTIALS = {'username':'jayala ','password':'damarys/1'}
