@@ -7,7 +7,7 @@ CHAT_ID = '-1001666279733'
 # DATOS DEL MOODLE
 USUARIO = 'jayala '
 MOODLE_PASSWORD = 'damarys/1'
-USUARIO_ID = 3588 #Tu id
+USUARIO_ID = 10820 #Tu id
 ZIP_MB = 399
 MOODLE_URL = 'https://moodle.uclv.edu.cu'
 
